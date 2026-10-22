@@ -1,0 +1,4 @@
+lesson_id,title,topic,difficulty,duration_minutes,synthetic_demo_record
+demo-lesson-001,Introduction to Machine Learning,Machine Learning,beginner,12,true
+demo-lesson-002,Understanding Overfitting,Model Evaluation,beginner,9,true
+demo-lesson-003,Database Keys,DBMS,beginner,8,true

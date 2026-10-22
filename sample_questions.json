@@ -1,0 +1,38 @@
+[
+  {
+    "id": "demo-q-001",
+    "topic": "Overfitting",
+    "question": "What is overfitting in machine learning?",
+    "expected_key_points": [
+      "The model fits training data too closely",
+      "It may perform poorly on unseen data",
+      "Regularization or more representative data can help"
+    ],
+    "difficulty": "beginner",
+    "synthetic_demo_record": true
+  },
+  {
+    "id": "demo-q-002",
+    "topic": "Database basics",
+    "question": "What is a primary key?",
+    "expected_key_points": [
+      "It uniquely identifies a row",
+      "It must be unique",
+      "It cannot be NULL"
+    ],
+    "difficulty": "beginner",
+    "synthetic_demo_record": true
+  },
+  {
+    "id": "demo-q-003",
+    "topic": "HTTP APIs",
+    "question": "What is the purpose of an API endpoint?",
+    "expected_key_points": [
+      "It identifies a resource or operation",
+      "A client sends a request to it",
+      "The server returns a response"
+    ],
+    "difficulty": "beginner",
+    "synthetic_demo_record": true
+  }
+]
